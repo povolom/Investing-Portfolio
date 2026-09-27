@@ -1,0 +1,3 @@
+# Project rules
+
+Keep this a local learning project. Use Python's standard library and manual CAD data until a separately agreed feature needs more. Bind to 127.0.0.1; preserve Host and Origin validation. Never add trading, brokerage credentials or investment recommendations implicitly. Keep actual holdings and database backups outside Git. Add tests for meaningful calculation and persistence behavior. Explain weekly changes with at most three concepts and one small user exercise. Record only delivered features as résumé evidence. Public GitHub creation/push or deployment requires user authorization. A separate reviewer must assess substantial changes.
