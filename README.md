@@ -26,7 +26,7 @@ Each symbol represents one aggregated position. Saving the same symbol replaces 
 - Unrealized gain/loss = value − cost; allocation = position value ÷ total value.
 - No live prices, trades, cash, fees, dividends, realized gains, tax calculations, FX conversion or historical returns. Displayed gain is not total investment performance.
 
-Only this Mac can connect by default. Host and Origin checks reject other website origins and unexpected hosts. This is a personal development app, not a multi-user hosted service. Source exists locally in Git; no GitHub remote or public deployment has been created.
+Only this Mac can connect by default. Host and Origin checks reject other website origins and unexpected hosts. This is a personal development app, not a multi-user hosted service. Source is maintained in the private GitHub repository https://github.com/povolom/Investing-Portfolio. No public deployment has been created.
 
 ## First learning checkpoint
 
